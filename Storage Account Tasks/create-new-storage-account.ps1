@@ -1,5 +1,5 @@
 $ResourceGroup = "<RG where the storage account will be stored>"
-$Location = "<EastUs, WestUs..."
+$Location = "<EastUs, WestUs...>"
 $StorageAccountName = "<unique name for storage account"
 $SkuName = "Standard_LRS <or other storage tier>"
 
